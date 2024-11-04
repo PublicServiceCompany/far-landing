@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+}
+body {
+  background-color: black; 
+}
+p {
+  color: white;
+  font-family: helvetica;
+  text-align: center;
+}
